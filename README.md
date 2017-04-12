@@ -27,4 +27,11 @@ Introduction to Quantum Information and Image Processing
 ## 2. Matlab Quantum Library
   Matlab default providing a set of Quantum functionality functions ,Executing it on classical computer be no use ,But best suited for simulation
 ## 3. Quantum Compiler Language
-## 4. Quantum Camera Image Processing Tool 
+## 4. Quantum Camera Image Processing Tool
+## 5. Quantum Programming Languages
+        1. QCL
+        2. qGCL
+        3. QPL
+        4. QML
+        5. QuaFL
+        6. LIQUil
