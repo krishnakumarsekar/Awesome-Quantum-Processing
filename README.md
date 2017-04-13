@@ -41,4 +41,5 @@ Introduction to Quantum Information and Image Processing
         2. quantum lambda calculus
 ## 7. Quantum Neural Network
         1. QANN
-        2. QPN 
+        2. QPN
+        3. SAL
