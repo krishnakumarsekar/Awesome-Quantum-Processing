@@ -36,6 +36,9 @@ Introduction to Quantum Information and Image Processing
         5. QuaFL
         6. LIQUil
         7. Quipper
-## 5. Quantum Mathematics
+## 6. Quantum Mathematics
         1. Hilbert Space
-        2. quantum lambda calculus    
+        2. quantum lambda calculus
+## 7. Quantum Neural Network
+        1. QANN
+        2. QPN 
