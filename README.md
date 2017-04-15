@@ -49,7 +49,7 @@ Introduction to Quantum Information and Image Processing
 ## 11. Quantum Algorithm for Tensor Networks
 ## 12. Quantum Cryptography
 ## 13. Quantum Search Algorithm
-        Grovers Algorithm
+        1. Grovers Algorithm
 ## 14. Quantum way classical image processing
 ## 15. Quantum Gates Algorithm
         1. shors algorithm
