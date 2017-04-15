@@ -57,3 +57,4 @@ Introduction to Quantum Information and Image Processing
 ## 17. Quantum Genetic Algorithm
 ## 18. Quantum Ant Colony Optimization
 ## 19. Quantum Support Vector Machine
+## 20. Quantum Gradient Descent
