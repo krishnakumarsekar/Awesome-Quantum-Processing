@@ -43,3 +43,13 @@ Introduction to Quantum Information and Image Processing
         1. QANN
         2. QPN
         3. SAL
+## 8. Quantum cognition
+## 9. quantum probability theory
+## 10. Topology Quantum
+## 11. Quantum Algorithm for Tensor Networks
+## 12. Quantum Cryptography
+## 13. Quantum Search Algorithm
+## 14. Quantum way classical image processing
+## 15. Quantum Gates Algorithm
+        1. shors algorithm
+## 16. Quantum Fourier Transform
