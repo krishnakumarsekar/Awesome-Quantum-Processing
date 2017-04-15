@@ -54,3 +54,6 @@ Introduction to Quantum Information and Image Processing
 ## 15. Quantum Gates Algorithm
         1. shors algorithm
 ## 16. Quantum Fourier Transform
+## 17. Quantum Genetic Algorithm
+## 18. Quantum Ant Colony Optimization
+## 19. Quantum Support Vector Machine
