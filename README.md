@@ -58,8 +58,8 @@ Introduction to Quantum Information and Image Processing
 ## 18. Quantum Ant Colony Optimization
 ## 19. Quantum Support Vector Machine
 ## 20. Quantum Gradient Descent
-
-## 21. Wonderful links for video ,courses and materials
+## 21. Oracle
+## 22. Wonderful links for video ,courses and materials
         A nice video to kick start the Quantum Algorithms
             1. Quantum Algorithm 2 [https://www.youtube.com/watch?v=liaqDN51biE&t=3635s]
             2. Quantum Algorithm 1 []
