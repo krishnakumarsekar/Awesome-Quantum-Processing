@@ -10,20 +10,29 @@ Introduction to Quantum Information and Image Processing
             https://www.youtube.com/watch?v=g_IaVepNDT4
         2. Photon wave
             https://www.youtube.com/watch?v=fwXQjRBLwsQ
-        3. Electron Fluctuation
+            https://www.youtube.com/watch?v=KKr91v7yLcM
+        3. Electron Fluctuation or spin
+            https://www.youtube.com/watch?v=J3xLuZNKhlY
+            https://www.youtube.com/watch?v=3k5IWlVdMbo
+            https://www.youtube.com/watch?v=jvvkomcmyuo
         4. States
-        5. SuperPosition
-        6. SuperPosition specific for information processing
-        7. Classical Bit
-        8. Quantum Bit or Qubit or Qbit
-        9. How to read and write data
-        10. Basic Gates in Quantum
-        11. Quantum Transistor
-        11. Quantum Calculus
-        12. DCT,DFT Algorithms in Quantum
-        13. Fuzzy C-Means ,Ant Colony Algorithms in Quantum World
-        14. Quantum Photo Image
-        15. Advantages of Quantum Information and Image Processing
+            https://www.youtube.com/watch?v=sICXOwOwS4E
+        5. Tensors
+            https://www.youtube.com/watch?v=f5liqUk0ZTw
+        6. Tensors Network
+            https://www.youtube.com/watch?v=bD-CWgbsCeI&list=PLgKuh-lKre10UQnP7gBCFoKgq5KWIA7el
+        7. SuperPosition
+        8. SuperPosition specific for information processing
+        9. Classical Bit
+        10. Quantum Bit or Qubit or Qbit
+        11. How to read and write data
+        12. Basic Gates in Quantum
+        13. Quantum Transistor
+        14. Quantum Calculus
+        15. DCT,DFT Algorithms in Quantum
+        16. Fuzzy C-Means ,Ant Colony Algorithms in Quantum World
+        17. Quantum Photo Image
+        18. Advantages of Quantum Information and Image Processing
     
 ## 1. Python Quantum Library
   QuTip is a python based project Started Development 7 years ago
