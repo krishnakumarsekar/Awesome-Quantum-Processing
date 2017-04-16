@@ -16,6 +16,7 @@ Introduction to Quantum Information and Image Processing
         8. Quantum Bit or Qubit or Qbit
         9. How to read and write data
         10. Basic Gates in Quantum
+        11. Quantum Transistor
         11. Quantum Calculus
         12. DCT,DFT Algorithms in Quantum
         13. Fuzzy C-Means ,Ant Colony Algorithms in Quantum World
