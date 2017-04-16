@@ -9,6 +9,7 @@ Introduction to Quantum Information and Image Processing
             ![Alt text](/images/img.jpg?raw=true "Optional Title")
             https://www.youtube.com/watch?v=g_IaVepNDT4
         2. Photon wave
+            https://www.youtube.com/watch?v=fwXQjRBLwsQ
         3. Electron Fluctuation
         4. States
         5. SuperPosition
