@@ -80,6 +80,8 @@ Introduction to Quantum Information and Image Processing
         Conference Video of nice talks
             https://www.youtube.com/watch?v=akkkmCYxn5s&list=PLAsZrQZnp6aXSoJfevGAfesEYrpr0vkqo
         Nice Materials for study
+            https://inst.eecs.berkeley.edu/~cs191/fa14/
+            https://people.eecs.berkeley.edu/~vazirani/cs191.html
         Full wikie for programming languages
             https://www.quantiki.org/wiki/list-qc-simulators
         Online certificate courses
