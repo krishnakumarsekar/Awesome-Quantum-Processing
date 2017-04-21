@@ -1,4 +1,17 @@
 # Awesome-Quantum-Information-Image-Processing
+
+AI is just a term in recent days but the work effort start from 18th century.
+
+What is AI ? , In Simple word the answer is making the computer or application to learn themselves . So its totally related with computing fields like computer science and IT ? ,The answer is not true . AI is a common platform which is mingled in all the aspects of the life from agriculture to mechanics . Computing is a key component to use AI easily and effectively . To be more clear ,Who is the mother of AI ?, As no option Mathematics is the mother of AI . The world tremendous invention complex numbers given birth to this field . Applying mathematics to the real life problem always gives a solution . From Neural Network to the complex DNA is running under some specific mathematical formulas and theorems.
+
+As computing technology growing faster and faster mathematics entered into this field and makes the solution via computing to the real world . In the computing technology timeline once a certain achievements reached peoples interested to use advanced mathematical ideas such as complex numbers ,eigen etc and its the kick start for the AI field such as Artificial Neural Network ,DNA Computing etc.
+
+Now the main question, why this field is getting boomed now a days ? , From the business perspective , 8-10 Years before during the kick start time for AI ,the big barrier is to merge mathematics into computing field . people knows well in computing has no idea on mathematics and research mathematician has no idea on what is computing . The education as well as the Job Opportunities is like that in that time . Even if a person tried to study both then the business value for making a product be not good.
+
+Then the top product companies like Google ,IBM ,Microsoft decided to form a team with mathematician ,a physician and a computer science person to come up with various ideas in this field . Success of this team made some wonderful products and they started by providing cloud services using this product . Now we are in this stage (https://cloud.google.com/vision/) .
+
+So what's next ? , As mathematics reached the level of time travel concepts but the computing is still running under classical mechanics . the companies understood, the computing field must have a change from classical to quantum, and they started working on the big Quantum computing field, and the market named this field as Quantum Information Science .The kick start is from Google and IBM with the Quantum Computing processor (D-Wave) for making Quantum Neural Network .The field of Quantum Computer Science and Quantum Information Science will do a big change in AI in the next 10 years. Waiting to see that........... .(https://research.google.com/pubs/QuantumAI.html, http://research.ibm.com/ibm-q/)
+
 Here you can get all the Quantum Projects and the descriptions of the projects around the web
 
 Introduction to Quantum Information and Image Processing
