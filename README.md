@@ -99,4 +99,9 @@ Introduction to Quantum Information and Image Processing
             https://www.quantiki.org/wiki/list-qc-simulators
         Online certificate courses
             https://www.quora.com/Are-there-any-good-free-online-courses-on-quantum-computing-I-have-background-knowledge-in-both-programming-C-and-basic-mathematical-physics
+## 23. Quantum Machine Learning
+        1. https://research.googleblog.com/2009/12/machine-learning-with-quantum.html
+## 24. Quantum AI
+        1. Google Quantum AI project (https://research.google.com/pubs/QuantumAI.html)
+        2. IBM Quantum AI Project(http://research.ibm.com/ibm-q/)
         
